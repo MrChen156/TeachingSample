@@ -1,0 +1,2 @@
+double mao();
+int wu();
